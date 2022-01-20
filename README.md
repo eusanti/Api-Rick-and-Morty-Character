@@ -16,4 +16,6 @@ The main goal of this app was to train how to use a REST(ish) and GraphQL API.
 
 Link of the Api: https://rickandmortyapi.com/
 
+Follow me @ Linkedin: https://www.linkedin.com/in/eunice-santiago/
+
 
